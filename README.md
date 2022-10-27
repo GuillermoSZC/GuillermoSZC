@@ -20,3 +20,5 @@ Now, in 2022, I am open to work and grow up how as proffesional in the game indu
 [![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unity/)</br>
 ![C++](https://img.shields.io/badge/C++-0066A1?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
 ![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)</br>
+![C#](https://static.cdnlogo.com/logos/c/27/c.svg?style=for-the-badge&logo=C#&logoColor=white&labelColor=101010)</br>
+
