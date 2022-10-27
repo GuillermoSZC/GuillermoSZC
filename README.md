@@ -12,5 +12,5 @@ I joined in two game jams: Subject15 (Unreal Engine, https://github.com/SokerOne
 
 Now, in 2022, I am open to work and grow up how as proffesional in the game industry.
 
-## <img src="https://media.giphy.com/media/cKW0BJ33aO8ZcF7wlo/giphy.gif" width="40">Find me at
+## <img src="https://media.giphy.com/media/Ix8qoqjuYhNfYls78x/giphy.gif" width="40">Find me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_Suárez_Calleja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/guillermo-suarez-408297206)</br>
