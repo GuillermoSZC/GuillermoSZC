@@ -14,3 +14,9 @@ Now, in 2022, I am open to work and grow up how as proffesional in the game indu
 
 ## <img src="https://media.giphy.com/media/Ix8qoqjuYhNfYls78x/giphy.gif" width="20"> Find me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_Suárez_Calleja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/guillermo-suarez-408297206)</br>
+
+## <img src="https://media.giphy.com/media/VwaqcPJiOAE4iYXUL2/giphy.gif" width="40"> Skills
+[![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unreal-engine/)
+[![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unity/)</br>
+![C++](https://img.shields.io/badge/C++-0066A1?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
+![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)</br>
