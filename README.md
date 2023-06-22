@@ -12,6 +12,8 @@ I joined in two game jams: Subject15 (Unreal Engine, https://github.com/SokerOne
 
 And finally, my last TFM project called Howl Of Iron. It is the biggest project I have ever been involved in (17 people in total and 9 months to finish it). It's a third person combat action game. We have it on the Steam platform https://store.steampowered.com/app/2235790/Howl_of_Iron/ right now. But if you are interested in seeing what we have done inside I have no problem to show you what you want in a video call, as the game repository is private and I can't attach a link here so you can see it freely.
 
+Howl of Iron repo: https://github.com/GuillermoSZC/HowlOfIron_Public
+
 Now, in 2023, I am open to work and grow up how as proffesional in the game industry.
 
 ## <img src="https://media.giphy.com/media/Ix8qoqjuYhNfYls78x/giphy.gif" width="20"> Find me at
