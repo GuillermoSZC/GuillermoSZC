@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillermo Suarez</h1>
 <h3 align="center">Game Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://guillermosuarez.portfoliobox.net/](https://guillermosuarez.portfoliobox.net/)
+- 👨‍💻 Link to my portfolio: [https://guillermosuarez.portfoliobox.net/](https://guillermosuarez.portfoliobox.net/)
 
 - 💬 Ask me about **Unreal Engine, Unity3D, C++, C#**
 
