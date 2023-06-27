@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Guillermo Suarez</h1>
-<h3 align="center">Game Developer</h3>
+<h3 align="center">I'm a Game Developer specialized in Unreal Engine and Unity3D</h3>
 
-- 👨‍💻 Link to my portfolio: [https://guillermosuarez.portfoliobox.net/](https://guillermosuarez.portfoliobox.net/)
+I have recently completed my studies and I am actively seeking employment. 
+
+My mission is to embark on an exciting journey of continuous learning and growth as a game programmer. With a determined mindset, I aspire to contribute to the creation of captivating and immersive gaming experiences.
+
+Ever since I can remember, video games have fascinated me. As I grew up, I realized that I wanted to turn my passion into a career. After completing my studies in game programming, I am eager to kick-start my professional journey and gain hands-on experience in bringing virtual worlds to life through coding.
+
+During my last period of study in the video game programming master's program, I acquired solid knowledge and improved fundamental skills to work effectively in teams. I focused on developing programming skills, especially in C++ and C#, for use in engines such as Unreal Engine and Unity3D.
+
+We did numerous internships using these languages, focusing especially on C++.
+
+As a final master's project, we created an exciting third-person action combat game, which required 8 months of development. We are proud to have won the award for best game design at PSTalents 2022 and to have won second place for best indie game at the Madrid GamesWeek 2022 indie games event.
+
+If you want to explore more about my experience and trajectory as a programmer, I invite you to visit my portfolio by clicking on the following link: [https://guillermosuarez.portfoliobox.net/](https://guillermosuarez.portfoliobox.net/)
 
 - 💬 Ask me about **Unreal Engine, Unity3D, C++, C#**
 
