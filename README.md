@@ -1,26 +1,16 @@
-# Hi, my name is Guillermo Suárez
+<h1 align="center">Hi 👋, I'm Guillermo Suarez</h1>
+<h3 align="center">Game Developer</h3>
 
-### I am a Game Programmer specialized in Unreal Engine and Unity.
+- 👨‍💻 All of my projects are available at [https://guillermosuarez.portfoliobox.net/](https://guillermosuarez.portfoliobox.net/)
 
-I studied Game Programming master at U-TAD university, on Madrid, and in turn I development together with 15 other teammates a TFM called Howl of Iron, a game in third person of combat genre.
+- 💬 Ask me about **Unreal Engine, Unity3D, C++, C#**
 
-In the past, I worked in other game how as TFG called BattleRooms, made with Unity, https://github.com/SokerOne/Battle-Rooms.
+- 📫 How to reach me **guillermoszc96@gmail.com**
 
-In addition, in the master I have worked in programming languages such as C++, C#, LUA along with game engines like Unity, Unreal Engine 4.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/guillermo-suarez-408297206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillermo-suarez-408297206/" height="30" width="40" /></a>
+</p>
 
-I joined in two game jams: Subject15 (Unreal Engine, https://github.com/SokerOne/Subject15) and Prision del coso (Unity, https://github.com/SokerOne/PrisonEscape_JAM).
-
-And finally, my last TFM project called Howl Of Iron. It is the biggest project I have ever been involved in (17 people in total and 9 months to finish it). It's a third person combat action game. We have it on the Steam platform https://store.steampowered.com/app/2235790/Howl_of_Iron/ right now. But if you are interested in seeing what we have done inside I have no problem to show you what you want in a video call, as the game repository is private and I can't attach a link here so you can see it freely.
-
-Howl of Iron repo: https://github.com/GuillermoSZC/HowlOfIron_Public
-
-Now, in 2023, I am open to work and grow up how as proffesional in the game industry.
-
-## <img src="https://media.giphy.com/media/Ix8qoqjuYhNfYls78x/giphy.gif" width="20"> Find me at
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_Suárez_Calleja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/guillermo-suarez-408297206)</br>
-
-## <img src="https://media.giphy.com/media/VwaqcPJiOAE4iYXUL2/giphy.gif" width="20"> Skills
-[![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unreal-engine/)
-[![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](https://gerlogu.com/projects/unity/)</br>
-![C++](https://img.shields.io/badge/C++-0066A1?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
-![Blueprints](https://img.shields.io/badge/Blueprints_Visual_Scripting-d1cd6a?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)</br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
