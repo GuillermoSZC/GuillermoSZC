@@ -14,7 +14,7 @@ We did numerous internships using these languages, focusing especially on C++.
 As a final master's project, we created an exciting third-person action combat game, which required 8 months of development. We are proud to have won the award for best game design at PSTalents 2022 and to have won second place for best indie game at the Madrid GamesWeek 2022 indie games event.
 
 If you want to explore more about my experience and trajectory as a programmer, I invite you to visit my portfolio by clicking on the following link: 
-
+(if the link does not work I recommend copying the link and pasting it directly into your browser)
 https://guillermosuarez.portfoliobox.net/
 
 - 💬 Ask me about **Unreal Engine, Unity3D, C++, C#**
