@@ -1,29 +1,105 @@
-<h1 align="center">Hi 👋, I'm Guillermo Suarez</h1>
-<h3 align="center">I'm a Game Developer specialized in Unreal Engine and Unity3D</h3>
+# Guillermo Suárez
 
-I have recently completed my studies and I am actively seeking employment. 
+**Full stack developer.** Desarrollo proyectos con Next.js, React y TypeScript.
 
-My mission is to embark on an exciting journey of continuous learning and growth as a game programmer. With a determined mindset, I aspire to contribute to the creation of captivating and immersive gaming experiences.
+[guillermoszc96@gmail.com](mailto:guillermoszc96@gmail.com) · [LinkedIn](https://www.linkedin.com/in/guillermo-suarez-408297206/)
 
-Ever since I can remember, video games have fascinated me. As I grew up, I realized that I wanted to turn my passion into a career. After completing my studies in game programming, I am eager to kick-start my professional journey and gain hands-on experience in bringing virtual worlds to life through coding.
+## Proyectos
 
-During my last period of study in the video game programming master's program, I acquired solid knowledge and improved fundamental skills to work effectively in teams. I focused on developing programming skills, especially in C++ and C#, for use in engines such as Unreal Engine and Unity3D.
+### [The Wild Market](https://www.thewildmarket.com) &nbsp; ![online](https://img.shields.io/badge/online-3EE0B0?style=flat-square&logoColor=111111)
 
-We did numerous internships using these languages, focusing especially on C++.
+Web de mercados y ferias, online. Las marcas ven los eventos, piden stand, hay fotos y les llegan correos. La hicimos en nuestro monorepo multi-tenant.
 
-As a final master's project, we created an exciting third-person action combat game, which required 8 months of development. We are proud to have won the award for best game design at PSTalents 2022 and to have won second place for best indie game at the Madrid GamesWeek 2022 indie games event.
+Ahora mismo hay más de 220 personas registradas. Con el SEO y el trabajo constante, sale en las primeras posiciones de Google.
 
-If you want to explore more about my experience and trajectory as a programmer, I invite you to visit my portfolio 📜 by clicking on the following link ⬇ (if the link does not work I recommend copying the link and pasting it directly into your browser): 
-https://guillermosuarez.portfoliobox.net/
+Publicada en Cloudflare. Las fotos están en R2, los correos salen con Resend y los formularios llevan Turnstile. La visita entra por un servidor nuestro y desde ahí se reenvía a Cloudflare.
 
-- 💬 Ask me about **Unreal Engine, Unity3D, C++, C#**
+### Monorepo multi-tenant &nbsp; ![plataforma](https://img.shields.io/badge/plataforma-3178C6?style=flat-square)  
+Un cliente nuevo no es una copia del repo. Tiene su dominio, sus datos y lo que lleva activado. La web mira el dominio y carga solo esa parte.
 
-- 📫 How to reach me **guillermoszc96@gmail.com**
+Está en Turborepo, con pnpm. Los datos van en Supabase y RLS hace que cada cliente solo llegue a lo suyo. El staff entra con Supabase Auth. Las APIs pasan por Zod. Estilos en Tailwind, tests con Vitest.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/guillermo-suarez-408297206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillermo-suarez-408297206/" height="30" width="40" /></a>
-</p>
+La lógica va separada de la base de datos y del servidor. Tenemos una versión de staging para probar y testear antes de subir, y luego la versión de producción.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### [ADW Zenith](https://www.adwzenith.com) &nbsp; ![empresa](https://img.shields.io/badge/empresa-635BFF?style=flat-square)  
+La web de la empresa en formación. Ahí se ven los servicios y se gestionan los clientes. El cobro es con Stripe: un pago suelto, o una cuota mensual, trimestral o anual.
+
+## Cómo trabajo
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img alt="Semana" src="https://img.shields.io/badge/Semana-111111?style=flat-square">
+      <br><br>
+      Equipo de 4. La semana se planifica con lo pendiente, por prioridad, y las tareas quedan repartidas. El sprint va de lunes a viernes. El viernes, por norma, queda el testing y no el desarrollo.
+    </td>
+    <td width="33%" valign="top">
+      <img alt="Backups" src="https://img.shields.io/badge/Backups-1B4332?style=flat-square">
+      <br><br>
+      Backup automático en el VPS, para clientes como The Wild Market. Corre cada día a las 4:00 y avisa por Element con el estado. Si falla, el fallo va en el mensaje. Al llegar la quinta copia se borra la más antigua, y en el VPS solo hay 4.
+    </td>
+    <td width="33%" valign="top">
+      <img alt="Soporte" src="https://img.shields.io/badge/Soporte-635BFF?style=flat-square">
+      <br><br>
+      El soporte cubre lo que el cliente necesita, las funciones nuevas de la web y el presupuesto de esas funciones.
+    </td>
+  </tr>
+</table>
+
+## Stack
+
+<table>
+  <tr>
+    <td width="33%" valign="bottom"><h3>Aplicación</h3>La web y el monorepo</td>
+    <td width="33%" valign="bottom"><h3>Datos</h3>Base de datos y permisos</td>
+    <td width="33%" valign="bottom"><h3>Infraestructura</h3>Publicación y entrega</td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"><br>
+      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"><br>
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"><br>
+      <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white"><br>
+      <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white">
+    </td>
+    <td width="33%" valign="top">
+      <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111111"><br>
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"><br>
+      <img alt="RLS" src="https://img.shields.io/badge/RLS-1B4332?style=flat-square&logo=supabase&logoColor=3ECF8E"><br>
+      <img alt="Drizzle" src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=111111">
+    </td>
+    <td width="33%" valign="top">
+      <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white"><br>
+      <img alt="OpenNext" src="https://img.shields.io/badge/OpenNext-000000?style=flat-square&logo=nextdotjs&logoColor=white"><br>
+      <img alt="R2" src="https://img.shields.io/badge/R2-F38020?style=flat-square&logo=cloudflare&logoColor=white"><br>
+      <img alt="Wrangler" src="https://img.shields.io/badge/Wrangler-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white"><br>
+      <img alt="Traefik" src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefik&logoColor=white"><br>
+      <img alt="nginx" src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="bottom"><h3>Integraciones</h3>Pagos, correo y formularios</td>
+    <td width="33%" valign="bottom"><h3>Calidad</h3>Revisión, CI y tareas</td>
+    <td width="33%" valign="bottom"><h3>Medición</h3>Visitas y buscadores</td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"><br>
+      <img alt="Resend" src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white"><br>
+      <img alt="Turnstile" src="https://img.shields.io/badge/Turnstile-F38020?style=flat-square&logo=cloudflare&logoColor=white"><br>
+      <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"><br>
+      <img alt="PostHog" src="https://img.shields.io/badge/PostHog-F54E00?style=flat-square&logo=posthog&logoColor=white">
+    </td>
+    <td width="33%" valign="top">
+      <img alt="Biome" src="https://img.shields.io/badge/Biome-60A5FA?style=flat-square&logo=biome&logoColor=111111"><br>
+      <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"><br>
+      <img alt="preflight hook" src="https://img.shields.io/badge/preflight_hook-24292F?style=flat-square&logo=git&logoColor=white"><br>
+      <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
+    </td>
+    <td width="33%" valign="top">
+      <img alt="Google Analytics" src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"><br>
+      <img alt="Google Search Console" src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=flat-square&logo=google&logoColor=white"><br>
+      <img alt="Bing Webmaster Tools" src="https://img.shields.io/badge/Bing_Webmaster_Tools-008373?style=flat-square&logo=bing&logoColor=white">
+    </td>
+  </tr>
+</table>
